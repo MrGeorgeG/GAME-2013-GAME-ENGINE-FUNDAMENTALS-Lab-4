@@ -1,4 +1,4 @@
-# GAME_2013_GAME_ENGINE_FUNDAMENTALS_Lab-4
+# GAME-2013-GAME-ENGINE-FUNDAMENTALS-Lab-4
 This lab will get you to use input to add a bit more gameplay.
 
 Clicker Counter
