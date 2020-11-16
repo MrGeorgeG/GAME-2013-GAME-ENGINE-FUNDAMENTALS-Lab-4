@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.22",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Lab4_Xinlin_Gan",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
